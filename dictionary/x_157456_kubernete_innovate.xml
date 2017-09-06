@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Innovate" max_length="40" name="x_157456_kubernete_innovate" type="collection">
+        <element label="Budget" max_length="1000" name="budget" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="true" label="true_or_false" max_length="40" name="u_boolean_1" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="choices" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element label="Hr" sequence="0" value="Hr"/>
+                <element label="TR" sequence="1" value="TR"/>
+                <element label="SR" sequence="2" value="SR"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="description" max_length="40" name="u_description" type="string"/>
+        <element label="Duration" max_length="40" name="u_glide_duration_1" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Idea Type" max_length="40" name="u_idea_type" type="string">
+            <choice>
+                <element label="Team" sequence="0" value="Team"/>
+                <element label="Individual" sequence="1" value="Individual"/>
+            </choice>
+        </element>
+        <element label="New Reference" max_length="32" name="u_reference_2" reference="sc_catalog" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Short Description" max_length="40" name="u_short_description" type="string">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="u_reference_2"/>
+        </index>
+    </element>
+</database>

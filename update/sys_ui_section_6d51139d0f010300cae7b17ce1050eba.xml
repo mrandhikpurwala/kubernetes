@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Log" section_id="6d51139d0f010300cae7b17ce1050eba" sys_domain="global" table="x_157456_kubernete_innovate" version="3" view="">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Log</caption>
+            <header>false</header>
+            <name>x_157456_kubernete_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-06 07:43:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d51139d0f010300cae7b17ce1050eba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Log</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="kubernetes" source="x_157456_kubernete">74023d810f010300cae7b17ce1050e91</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="kubernetes">74023d810f010300cae7b17ce1050e91</sys_scope>
+            <sys_update_name>sys_ui_section_6d51139d0f010300cae7b17ce1050eba</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-06 07:43:39</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
