@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
     <sys_ui_section caption="Log" section_id="6d51139d0f010300cae7b17ce1050eba" sys_domain="global" table="x_157456_kubernete_innovate" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-06 09:35:58</sys_created_on>
+            <sys_id>fa0ba3190f410300cae7b17ce1050efe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_157456_kubernete_innovate" sys_domain="global" view="Default view">6d51139d0f010300cae7b17ce1050eba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-06 09:35:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Log</caption>
             <header>false</header>
