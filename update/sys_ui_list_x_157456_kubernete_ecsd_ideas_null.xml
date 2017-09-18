@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_157456_kubernete_ecsd_ideas" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>application</element>
+            <list_id display_value="x_157456_kubernete_ecsd_ideas" element="NULL" name="x_157456_kubernete_ecsd_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d23965110f910300cae7b17ce1050ee9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-18 10:24:27</sys_created_on>
+            <sys_id>5a3965110f910300cae7b17ce1050ee9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-18 10:24:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>idea_name</element>
+            <list_id display_value="x_157456_kubernete_ecsd_ideas" element="NULL" name="x_157456_kubernete_ecsd_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d23965110f910300cae7b17ce1050ee9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-18 10:24:27</sys_created_on>
+            <sys_id>da3965110f910300cae7b17ce1050ee9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-18 10:24:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requestor</element>
+            <list_id display_value="x_157456_kubernete_ecsd_ideas" element="NULL" name="x_157456_kubernete_ecsd_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d23965110f910300cae7b17ce1050ee9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-18 10:24:27</sys_created_on>
+            <sys_id>5e3965110f910300cae7b17ce1050ee9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-18 10:24:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requestor.name</element>
+            <list_id display_value="x_157456_kubernete_ecsd_ideas" element="NULL" name="x_157456_kubernete_ecsd_ideas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d23965110f910300cae7b17ce1050ee9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-18 10:24:27</sys_created_on>
+            <sys_id>de3965110f910300cae7b17ce1050ee9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-18 10:24:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_157456_kubernete_ecsd_ideas</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-18 10:24:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d23965110f910300cae7b17ce1050ee9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_157456_kubernete_ecsd_ideas</sys_name>
+            <sys_package display_value="kubernetes" source="x_157456_kubernete">74023d810f010300cae7b17ce1050e91</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="kubernetes">74023d810f010300cae7b17ce1050e91</sys_scope>
+            <sys_update_name>sys_ui_list_x_157456_kubernete_ecsd_ideas_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-18 10:24:27</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

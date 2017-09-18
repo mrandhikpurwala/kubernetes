@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ECSD Ideas" max_length="40" name="x_157456_kubernete_ecsd_ideas" type="collection">
+        <element label="Application" max_length="32" name="application" reference="x_157456_kubernete_ecsd_applications" type="reference"/>
+        <element label="Idea Name" max_length="40" name="idea_name" type="string"/>
+        <element label="Requestor" max_length="32" name="requestor" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="application"/>
+        </index>
+        <index name="index2">
+            <element name="requestor"/>
+        </index>
+    </element>
+</database>

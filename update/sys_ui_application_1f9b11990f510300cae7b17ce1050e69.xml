@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>ECSD  Infrastructure Application</name>
+        <order/>
+        <roles>x_157456_kubernete.innoguys</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-18 09:25:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1f9b11990f510300cae7b17ce1050e69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ECSD  Infrastructure Application</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="kubernetes" source="x_157456_kubernete">74023d810f010300cae7b17ce1050e91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="kubernetes">74023d810f010300cae7b17ce1050e91</sys_scope>
+        <sys_update_name>sys_ui_application_1f9b11990f510300cae7b17ce1050e69</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-18 09:25:00</sys_updated_on>
+    </sys_ui_application>
+</record_update>

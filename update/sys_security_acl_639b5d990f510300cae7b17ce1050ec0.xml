@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_157456_kubernete_ecsd_infrastructure_application</description>
+        <name>x_157456_kubernete_ecsd_infrastructure_application</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-18 09:25:00</sys_created_on>
+        <sys_id>639b5d990f510300cae7b17ce1050ec0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_157456_kubernete_ecsd_infrastructure_application</sys_name>
+        <sys_package display_value="kubernetes" source="x_157456_kubernete">74023d810f010300cae7b17ce1050e91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="kubernetes">74023d810f010300cae7b17ce1050e91</sys_scope>
+        <sys_update_name>sys_security_acl_639b5d990f510300cae7b17ce1050ec0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-18 09:25:00</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_157456_kubernete_ecsd_applications" label="ECSD  Infrastructure Application" max_length="40" name="x_157456_kubernete_ecsd_infrastructure_application" type="collection">
+        <element default="linux" label="Operarting System" max_length="100" name="u_operarting_system" type="string"/>
+    </element>
+</database>

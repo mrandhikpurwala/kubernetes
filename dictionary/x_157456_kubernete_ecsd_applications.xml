@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ECSD Applications" max_length="40" name="x_157456_kubernete_ecsd_applications" type="collection">
+        <element label="Developed By" max_length="32" name="developed_by" reference="sys_user" type="reference"/>
+        <element label="language" max_length="40" name="language" type="string"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="developed_by"/>
+        </index>
+    </element>
+</database>

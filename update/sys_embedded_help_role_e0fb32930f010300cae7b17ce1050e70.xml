@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_157456_kubernete.innovate_role_admin" name="x_157456_kubernete.innovate_role_admin">908afe930f010300cae7b17ce1050e70</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-12 11:18:02</sys_created_on>
+        <sys_id>e0fb32930f010300cae7b17ce1050e70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>908afe930f010300cae7b17ce1050e70</sys_name>
+        <sys_package display_value="kubernetes" source="x_157456_kubernete">74023d810f010300cae7b17ce1050e91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="kubernetes">74023d810f010300cae7b17ce1050e91</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e0fb32930f010300cae7b17ce1050e70</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-12 11:18:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
